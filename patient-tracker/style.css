@@ -58,6 +58,12 @@
 }
 
 
+.cent{
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
 /* Footer */
 footer {
   text-align: center;
