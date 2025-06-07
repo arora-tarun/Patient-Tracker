@@ -15,6 +15,7 @@ log in, book appointments, and view sample prescriptions — all from a simple, 
 - ✅ Navigation bar and footer on all pages
 
 
+
 ## 💡 Technologies Used
 
 - **HTML5** – Semantic structure
